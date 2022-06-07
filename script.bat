@@ -1,0 +1,1 @@
+NET USE C: \\servidor\pasta1 /USER:userone passone
